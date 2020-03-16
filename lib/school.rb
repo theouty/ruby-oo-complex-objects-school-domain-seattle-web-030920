@@ -23,13 +23,13 @@ class School
         roster[grade]
     end
   
-  def sort
-    roster.each do|key,value|
-    value.sort!
-        end
-        roster.sort.to_h
-      end
-    end
+ # def sort
+    #roster.each do|key,value|
+   # value.sort!
+     #   end
+     #   roster.sort.to_h
+     # end
+   # end
     
     
   
